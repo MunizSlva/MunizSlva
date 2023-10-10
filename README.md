@@ -1,6 +1,6 @@
 ### Olá, sou o Matheus Muniz👋
 
-- 🌱 Estudando javascript, node, API rest e postgreeSQL ...
+- 🌱 Estudando javascript, node e postgreeSQL ...
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
